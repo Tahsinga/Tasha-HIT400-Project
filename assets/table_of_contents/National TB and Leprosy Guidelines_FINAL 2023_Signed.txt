@@ -1,0 +1,136 @@
+Table of Contents
+Foreword                                                     2
+Acknowledgements                                                3
+List of Figures                                                   7
+Abbreviations                                                   9
+Definition of terms                                               12
+Rationale for updating TB management guidelines                                13
+What is NEW?                                                  13
+Part 1: Tuberculosis Overview and Organization of National TB services          16
+Chapter 1: Basics of Tuberculosis and its Pathogenesis                           17
+Causative agent                                                17
+Transmission of Mycobacterium tuberculosis                                  17
+Pathogenesis of TB                                               18
+Chapter 2: Epidemiology of Tuberculosis                                   21
+Global burden of disease                                            21
+Tuberculosis in Zimbabwe                                           21
+Principles of Tuberculosis Prevention, Care and Control                             21
+Chapter 3: Organisation of TB Services in Zimbabwe                            24
+The National Tuberculosis Control Strategy                                   24
+Strategic framework                                              24
+Structure and roles of the NTLP at various levels                                 24
+Engaging all care providers                                           26
+National Tuberculosis Control Programme Recording and Reporting Process                   31
+Research and Innovation to Enhance Programme Performance                          42
+Chapter 4: Advocacy, Communication and Social Mobilization                       43
+Introduction                                                  43
+Advocacy                                                   43
+Communication                                                44
+Social Mobilization                                               44
+Basic health education messages                                         45
+Part 2: Finding Tuberculosis                                    46
+Chapter 5: Tuberculosis Screening and Diagnosis                              47
+Introduction                                                  47
+Screening for TB in health care settings                                     47
+Diagnosis of PTB in adults                                           49
+Procedure for sputum production                                        49
+National TB Diagnostic algorithm                                        51
+Interpretation of Laboratory Results                                       47
+Diagnosis of Extra Pulmonary TB (EPTB)                                    47
+Diagnosis of TB in children                                           48
+Chapter 6: Systematic Screening of at risk / vulnerable populations                     53
+Introduction                                                  53
+Screening interventions for various TB risk groups                                53
+TB screening in correctional facilities and police holding cells                           54
+TB screening in miners and ex-miners                                      54
+TB screening in diabetic persons and other risk groups                              54
+Chapter 7: Contact investigation and management                              56
+5
+
+Introduction                                                  56
+Key definitions in TB contact investigation                                    56
+Rationale for Contact investigation                                       56
+Aims of TB Contact Investigation                                        56
+Process of TB Contact Investigation                                       57
+Key steps in TB contact investigation process                                  57
+TB Contact Investigation Data Flow                                       59
+Part 3: Treating Tuberculosis                                    60
+Chapter 8: Management of Drug Susceptible Tuberculosis                         61
+Introduction                                                  61
+Policy framework                                               61
+Treatment of drug susceptible TB                                        61
+Treatment of TB in special situations                                      65
+Treatment Monitoring (Case holding)                                      66
+Post TB treatment care                                             71
+Chapter 9: Drug Resistant TB; Programmatic and Clinical Management                  73
+Introduction                                                  73
+Principles of the care and control of DR-TB                                   73
+What is Drug resistant TB                                           73
+Factors Contributing to DR-TB                                         73
+Diagnosis of DR-TB                                              74
+DR-TB Treatment                                               74
+Prevention of DR-TB                                             75
+Chapter 10: Pharmacovigilance                                        76
+Key Definitions                                                76
+Rationale of pharmacovigilance for TB medicines                                76
+Prevention and management of adverse drug reactions                              76
+Adverse drug reactions induced by 1st line anti-TB medicines                           77
+Approach to management of adverse drug reactions                               78
+Drug interactions with 1st line anti-TB medicines                                 80
+Patient information about ADRs and interactions                                81
+Reporting of ADRs to first line TB medicines                                  82
+Managing, monitoring and reporting adverse events due to 2nd line anti- TB medicines                82
+Chapter 11: Community Engagement                                     84
+Introduction                                                  84
+Aims of Community TB Care                                          84
+Community TB Care activities                                         84
+Approaches to community TB screening                                     84
+TB treatment support                                             84
+Community-led monitoring                                           85
+Civil society roles in the national TB response                                  86
+Integrating Palliative Care in TB management for Improved Quality of Care and Treatment Outcomes        86
+Chapter 12: Confronting Zoonotic TB                                     89
+Introduction                                                  89
+Epidemiology                                                 89
+Transmission of zoonotic TB to humans                                     89
+Risk factors                                                  89
+Clinical management of zoonotic TB                                      89
+Chapter 13: Managing Mycobacteria other than TB                             91
+6
+
+Introduction                                                  91
+Clinical Presentation                                              91
+Diagnosis of MOTT                                              92
+Treatment of MOTT                                              92
+Part 4: Preventing TB and TB/HIV Collaboration                       94
+Chapter 14: Managing TB-HIV Co-infection                                 95
+Introduction                                                  95
+Clinical Presentation of TB in PLHIV                                      95
+Components of the TB/HIV Collaborative framework                              95
+Managing HIV in TB patients co –infected with HIV                               97
+Managing TB-HIV Co-infection in Children                                   97
+Considerations for ART and TB treatment                                    97
+Considerations for ART in XDR/MDR TB                                   98
+Chapter 15: TB Preventive Therapy                                     100
+What is Latent TB infection (LTBI)?                                      100
+Diagnosis of LTBI                                              100
+Management of LTBI                                             100
+Bacillus Calmette-Guérin (BCG) Prevention                                  106
+Chapter 16: TB Infection Prevention and Control                              108
+Introduction                                                 108
+Hierarchy of TB infection prevention and control measures                           108
+TB Infection Control Planning in Healthcare Settings                              110
+Consideration for special settings - prisons, holding cells and other congregated settings              111
+Community Household TB-IPC                                        111
+Considerations of TB-IPC in construction of health facilities                           112
+Part 5: Leprosy “Hansen’s Disease”                               113
+Chapter 17: Enhancing and sustaining efforts to eliminate Leprosy                     114
+Introduction                                                 114
+Objectives of the Leprosy Control Program                                   114
+Basic Facts about Leprosy                                           114
+Leprosy Classification                                             116
+Leprosy complications                                             116
+Treatment of Leprosy                                             117
+Management and Prevention of Disabilities                                   118
+Enhanced leprosy case finding                                         119
+Monitoring and Evaluation/Surveillance                                    119

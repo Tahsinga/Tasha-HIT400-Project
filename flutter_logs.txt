@@ -1,0 +1,29 @@
+Connected devices:
+SM M055F (mobile)            • R9ZY70F2LQR   • android-arm64  • Android 16 (API 36)
+sdk gphone64 x86 64 (mobile) • emulator-5554 • android-x64    • Android 16 (API 36) (emulator)
+Windows (desktop)            • windows       • windows-x64    • Microsoft Windows [Version 10.0.26200.7171]
+Chrome (web)                 • chrome        • web-javascript • Google Chrome 142.0.7444.176
+Edge (web)                   • edge          • web-javascript • Microsoft Edge 142.0.3595.94
+[1]: SM M055F (R9ZY70F2LQR)
+[2]: sdk gphone64 x86 64 (emulator-5554)
+[3]: Windows (windows)
+[4]: Chrome (chrome)
+[5]: Edge (edge)
+Please choose one (or "q" to quit): 
+Please choose one (or "q" to quit): 
+Please choose one (or "q" to quit): 
+Please choose one (or "q" to quit): 
+Please choose one (or "q" to quit): flutter clean
+Please choose one (or "q" to quit): flutter pub getflutter run
+Please choose one (or "q" to quit): # Start capturing flutter logs to a file (stdout a
+Please choose one (or "q" to quit): d stderr)$proc = Start-Process flutter -Argument
+Please choose one (or "q" to quit): List 'logs' -NoNewWindow -PassThru -RedirectStanda
+Please choose one (or "q" to quit): dOutput flutter_logs.txt -RedirectStandardError f
+Please choose one (or "q" to quit): lutter_logs_err.txt
+Please choose one (or "q" to quit): Start-Sleep -Seconds 12if (!$
+Please choose one (or "q" to quit): proc.HasExited) { Stop-Process -Id $proc.Id }# Me
+Please choose one (or "q" to quit): rge and filter for our LoadBooks prints
+Please choose one (or "q" to quit): Get-Conten
+Please choose one (or "q" to quit): t flutter_logs.txt,flutter_logs_err.txt | Select-S
+Please choose one (or "q" to quit): tring "\[LoadBooks\]" | Select-Object -Unique
+Please choose one (or "q" to quit): 
